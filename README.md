@@ -15,6 +15,12 @@
   ```bash
   npm install svelte@4.0.0
   ```
-
+- 프로젝트 기동
+  ```bash
+  npm run dev
+  ```
 이후 해당 버전을 개인 깃에 올린 후 다시 깃으로부터 degit(복제)하여 진행한다.
+```bash
+npx degit svelte4-repl-template {프로젝트명}
+```
 </details>
