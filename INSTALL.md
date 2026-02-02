@@ -1,4 +1,4 @@
-# *[README.md](../Ch01_Component/README.md)*
+# *[README.md](README.md)*
 # *Svelte4 프로젝트 세팅*
 <details>
 <summary>접기/펼치기</summary>
